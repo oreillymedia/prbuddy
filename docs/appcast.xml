@@ -3,12 +3,12 @@
     <channel>
         <title>PRBuddy</title>
         <item>
-            <title>0.5.7</title>
-            <pubDate>Thu, 30 Jan 2025 16:45:07 -0600</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>0.5.7</sparkle:shortVersionString>
+            <title>0.5.8</title>
+            <pubDate>Fri, 31 Jan 2025 13:13:48 -0600</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.5.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/oreillymedia/prbuddy/releases/download/0.5.7/PRBuddy.dmg" length="3014178" type="application/octet-stream" sparkle:edSignature="CHLAk4fxk+DKJb5auy6I1eG4f0RSdxGgkqeMqyR2jAxlOEuHriKyOgG99zJ8+Iahef/tS/RBtVRmdM9b3z7uBg=="/>
+            <enclosure url="https://github.com/oreillymedia/prbuddy/releases/download/0.5.8/PRBuddy.dmg" length="3014501" type="application/octet-stream" sparkle:edSignature="w9Io8yfSstc7AEWOHj4GrDVH6YirNt9XOJ31t1G5XceH3qV02FyPbv2gevZ5WJ+EHkMhjgdDUGuHAsxYibfSCQ=="/>
         </item>
     </channel>
 </rss>
