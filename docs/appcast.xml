@@ -1,14 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>PRBuddy</title>
+        <title>PRBuddy</title>        
         <item>
-            <title>0.5.9</title>
-            <pubDate>Thu, 13 Feb 2025 13:19:57 -0600</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>0.5.9</sparkle:shortVersionString>
+            <title>0.6.0</title>
+            <pubDate>Fri, 23 May 2025 15:59:06 -0500</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/oreillymedia/prbuddy/releases/download/0.5.9/PRBuddy.dmg" length="3013322" type="application/octet-stream" sparkle:edSignature="z//58KpYRqnn0Shre7MgG//Gtyju3ZHy5SKeDZTLcD4PdZAO1+t/N/l2LEHbbWKCtwNlXrX3RAn+wMWYI3WyBw=="/>
+            <enclosure url="https://oreillymedia.github.io/prbuddy/PRBuddy.dmg" length="2854689" type="application/octet-stream" sparkle:edSignature="B67GfOJyPgzsaXXmrD+rbI8pkBzxVidRwQTiGEvuSXxMsYI146SD7SO9S3kGiRCk4baFmX0dwlaCDxeNs3HTBg=="/>
         </item>
     </channel>
 </rss>
